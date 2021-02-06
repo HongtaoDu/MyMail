@@ -1,0 +1,1 @@
+url=http://172.16.85.35:8000/api/eac_info/get_state/BEOL-PA-N8-301/
